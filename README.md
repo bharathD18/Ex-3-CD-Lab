@@ -14,7 +14,7 @@ To write a yacc program to recognize a valid arithmetic expression that uses ope
 # PROGRAM
 ~~~
 %{
-#include "exp3cd_0045.tab.h"
+#include "exp3cd_0025.tab.h"
 #include <stdio.h>
 %}
 
@@ -98,7 +98,7 @@ void yyerror(const char *s)
 }
 ~~~
 # OUTPUT
-<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/438ff286-a392-4bbb-be89-947a4aa7b966" />
 
-# RESULT
+
+
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
