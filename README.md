@@ -98,6 +98,7 @@ void yyerror(const char *s)
 }
 ~~~
 # OUTPUT
+  <img width="1672" height="941" alt="cd 3" src="https://github.com/user-attachments/assets/544b7812-c416-44e4-9b13-a3b10a77696d" />
 
 
 
